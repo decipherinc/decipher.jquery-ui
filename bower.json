@@ -1,0 +1,10 @@
+{
+  "name": "decipher-jquery-ui",
+  "version": "1.9.2",
+  "authors": [
+    "Christopher Hiller <chiller@decipherinc.com>"
+  ],
+  "description": "Decipher Inc.'s Custom jQuery UI Build",
+  "main": "js/jquery-ui-1.9.2.custom.js",
+  "license": "MIT"
+}
