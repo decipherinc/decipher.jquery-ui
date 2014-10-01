@@ -1,4 +1,4 @@
-# decipher-jquery-ui
+# decipher.jquery-ui
 
 Decipher Inc.'s Custom [jQuery UI](http://jqueryui.com) build.
 
