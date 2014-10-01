@@ -5,7 +5,7 @@ Decipher Inc.'s Custom [jQuery UI](http://jqueryui.com) build.
 ## Install
 
 ```shell
-$ bower install decipher-jquery-ui
+$ bower install decipher.jquery-ui
 ```
 
 ## License
