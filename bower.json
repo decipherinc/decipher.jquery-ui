@@ -5,6 +5,6 @@
     "Christopher Hiller <chiller@decipherinc.com>"
   ],
   "description": "Decipher Inc.'s Custom jQuery UI Build",
-  "main": "js/jquery-ui-1.9.2.custom.js",
+  "main": "js/jquery-ui.js",
   "license": "MIT"
 }
