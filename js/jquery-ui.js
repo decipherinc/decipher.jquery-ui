@@ -14527,7 +14527,8 @@ $.widget( "ui.tooltip", {
 	version: "1.9.2",
 	options: {
 		content: function() {
-			return $( this ).attr( "title" );
+			var t = $( this ).attr("title");
+			return $( "<a>" ).html( t ).text();
 		},
 		hide: true,
 		// Disabled elements have inconsistent behavior across browsers (#8661)
